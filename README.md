@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shamsher Singh Chauhan
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate Project
+- 💞️ I’m looking to collaborate on open source Projects
 - 📫 How to reach me shamsherc@ocodewire.com
 
 <!---
