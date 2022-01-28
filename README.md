@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsherocode&label=Profile%20views&color=0e75b6&style=flat" alt="shamsherocode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsherocode" alt="shamsherocode" /></a> </p>
+<p align="left"> <a href="https://www.ocode.co
+"><img src="https://github-profile-trophy.vercel.app/?username=shamsherocode" alt="shamsherocode" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chauhanshamshe1" target="blank"><img src="https://img.shields.io/twitter/follow/chauhanshamshe1?logo=twitter&style=for-the-badge" alt="chauhanshamshe1" /></a> </p>
 
